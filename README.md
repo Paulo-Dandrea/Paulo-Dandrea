@@ -32,6 +32,7 @@ Meu nome é Paulo, sou de São paulo, sou fotógrafo e estou em uma agregação 
 **Ferramentas em constante aprendizado e interesse:**
 - React(com Redux e Router);
 - Node/Express;
+- Git e GitHub;
 - SQL e NoSQL
 - Testes;
 - CSS;
