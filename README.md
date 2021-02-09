@@ -21,7 +21,7 @@
 
 Olá!
 
-Meu nome é Paulo, sou de São paulo, sou fotógrafo e estou em uma agregação de carreira em **desenvolvimento full-stack**.
+Meu nome é Paulo, sou de São paulo, sou fotógrafo e estou em uma agregação de carreira em **desenvolvimento full stack**.
 
 **Meus interesses:**
 
