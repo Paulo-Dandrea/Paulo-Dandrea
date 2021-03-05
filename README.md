@@ -69,4 +69,3 @@ Meu nome é Paulo, sou de São paulo, sou fotógrafo e estou em uma agregação 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo-dandrea" alt="paulo-dandrea" /> </p>
 
-⭐️ Baseado no profile de [johnatas-henrique](https://github.com/johnatas-henrique)
