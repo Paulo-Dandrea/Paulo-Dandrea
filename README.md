@@ -22,9 +22,9 @@
 
 Hello! 
 
-My name is Paulo, I'm from São Paulo and I'm happy to see you here.
+My name is Paulo, I am from São Paulo. Glad to see you here.
 
-I'm a photographer that just started working with frontend development with:
+I am a photographer that has just started working with frontend development with:
 - React/Next
 - Styled Components
 - Jest/RTL/Cypress
@@ -32,10 +32,9 @@ I'm a photographer that just started working with frontend development with:
 - Git/GitHub
 
 
-Other tools that I know a little:
+Other tools I know a little:
 - Python
 - SQL and NoSQL
-- TDD
 - Agile
 
 
