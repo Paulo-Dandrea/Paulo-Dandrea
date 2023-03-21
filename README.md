@@ -1,43 +1,16 @@
-<p align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="62" height="62"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="62" height="62"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="62" height="62"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="62" height="62"/> 
-  
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="62" height="62"/> 
-    <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="62" height="62" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="62" height="62"/> 
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="git" width="40" height="40"/>
-</p>
-
-
-
-
-<br />
-<br />
 
 Hello! 
 
 My name is Paulo, I am from São Paulo. Glad to see you here.
 
-I am a photographer that has just started working with frontend development with:
+- Git/GitHub
+- Python
+- SQL and NoSQL
+- Dataform/Dbt
+- Agile
 - React/Next
 - Styled Components
 - Jest/RTL/Cypress
-- Storybook
-- Git/GitHub
-
-
-Other tools I know a little:
-- Python
-- SQL and NoSQL
-- Agile
-
-
 
 
 My interests:
