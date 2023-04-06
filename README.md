@@ -3,14 +3,15 @@ Hello!
 
 My name is Paulo, I am from São Paulo. Glad to see you here.
 
+- React/Next
+- Styled Components
+- Jest/RTL/Cypress
 - Git/GitHub
 - Python
 - SQL and NoSQL
 - Dataform/Dbt
 - Agile
-- React/Next
-- Styled Components
-- Jest/RTL/Cypress
+
 
 
 My interests:
