@@ -24,8 +24,4 @@ My interests:
 </a>
 
 
-
-
-
-https://github.com/Paulo-Dandrea/Paulo-Dandrea/assets/37453518/8539261f-0940-4d6e-854f-a1a9853e7a6b
-
+https://github.com/Paulo-Dandrea/Paulo-Dandrea/assets/37453518/ff3174c0-5bc6-478e-a85b-e81b4af9ae27
