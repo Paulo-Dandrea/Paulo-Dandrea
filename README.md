@@ -4,7 +4,8 @@ Hello!
 My name is Paulo, I am from São Paulo. Glad to see you here.
 
 - React/Next
-- Styled Components
+- Typescript
+- Styled Components/ CSS Modules/ Sass/ Tailwind
 - Jest/RTL/Cypress
 - Git/GitHub
 - Python
