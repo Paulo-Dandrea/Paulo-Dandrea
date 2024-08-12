@@ -36,6 +36,9 @@ https://github.com/user-attachments/assets/17b2b6b5-540b-4391-9b20-cc6743f86ea8
 [![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 
+### Backend
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+
 ### Testing
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)]()
 [![React Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)]()
@@ -45,13 +48,15 @@ https://github.com/user-attachments/assets/17b2b6b5-540b-4391-9b20-cc6743f86ea8
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
-### Backend & Database
+### Data & Analytics
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![NoSQL](https://img.shields.io/badge/NoSQL-F7B93E?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 
 ### Data Tools
 [![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)]()
 [![Dataform](https://img.shields.io/badge/Dataform-00A3E0?style=for-the-badge)]()
 
-
+### Methodologies
+[![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)]()
