@@ -1,6 +1,7 @@
 # Hello!
 
 My name is Paulo, I am from São Paulo. Glad to see you here.
+Motivated by teamwork and solving complex problems, I bring a collaborative, curious, resilient, and creative approach to every project. My passion for continuous learning and overcoming challenges allows me to contribute innovative and efficient solutions.
 
 ## Technologies I Work With
 
