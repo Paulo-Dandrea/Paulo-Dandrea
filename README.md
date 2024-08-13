@@ -44,6 +44,7 @@ Motivated by teamwork and solving complex problems, I bring a collaborative, cur
 
 ## Personal full-stack demo project - React/Node
 https://github.com/user-attachments/assets/ca1ef554-95aa-419a-9af0-4f279aada47a
+https://user-images.githubusercontent.com/37453518/138169609-c71b82c9-eae6-49c8-9fab-185fea9a53d9.mp4
 
 
 
