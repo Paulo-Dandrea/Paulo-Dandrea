@@ -41,3 +41,9 @@ Motivated by teamwork and solving complex problems, I bring a collaborative, cur
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-dandrea/)
+
+## Personal full-stack demo project - React/Node
+https://github.com/user-attachments/assets/ca1ef554-95aa-419a-9af0-4f279aada47a
+
+
+
