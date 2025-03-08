@@ -46,7 +46,6 @@ Motivated by teamwork and solving complex problems, I bring a collaborative, cur
 
 https://github.com/user-attachments/assets/301ccba5-38b9-40fe-91d4-828ac841f415
 
-https://user-images.githubusercontent.com/37453518/138169609-c71b82c9-eae6-49c8-9fab-185fea9a53d9.mp4
 
 
 
